@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lmaoleonix
-- 👀 I’m interested in guitars, coding.
-- 🌱 I’m currently learning no languages at the moment.
+- 👀 I’m interested in music, coding, drums.
 - 💻 The languages I know: Python, Lua, HTML, CSS, JS, C#, Java
 - 🏫 Trying to learn: Rust
 - 📫 Discord: lmaoleonix
